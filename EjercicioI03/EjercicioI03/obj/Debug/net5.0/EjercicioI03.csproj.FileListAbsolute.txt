@@ -1,0 +1,16 @@
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI03\EjercicioI03\bin\Debug\net5.0\EjercicioI03.exe
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI03\EjercicioI03\bin\Debug\net5.0\EjercicioI03.deps.json
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI03\EjercicioI03\bin\Debug\net5.0\EjercicioI03.runtimeconfig.json
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI03\EjercicioI03\bin\Debug\net5.0\EjercicioI03.runtimeconfig.dev.json
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI03\EjercicioI03\bin\Debug\net5.0\EjercicioI03.dll
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI03\EjercicioI03\bin\Debug\net5.0\ref\EjercicioI03.dll
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI03\EjercicioI03\bin\Debug\net5.0\EjercicioI03.pdb
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI03\EjercicioI03\obj\Debug\net5.0\EjercicioI03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI03\EjercicioI03\obj\Debug\net5.0\EjercicioI03.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI03\EjercicioI03\obj\Debug\net5.0\EjercicioI03.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI03\EjercicioI03\obj\Debug\net5.0\EjercicioI03.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI03\EjercicioI03\obj\Debug\net5.0\EjercicioI03.dll
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI03\EjercicioI03\obj\Debug\net5.0\ref\EjercicioI03.dll
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI03\EjercicioI03\obj\Debug\net5.0\EjercicioI03.pdb
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI03\EjercicioI03\obj\Debug\net5.0\EjercicioI03.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI03\EjercicioI03\obj\Debug\net5.0\EjercicioI03.csproj.AssemblyReference.cache

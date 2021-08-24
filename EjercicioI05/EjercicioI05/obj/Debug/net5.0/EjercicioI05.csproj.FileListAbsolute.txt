@@ -1,0 +1,16 @@
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI05\EjercicioI05\bin\Debug\net5.0\EjercicioI05.exe
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI05\EjercicioI05\bin\Debug\net5.0\EjercicioI05.deps.json
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI05\EjercicioI05\bin\Debug\net5.0\EjercicioI05.runtimeconfig.json
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI05\EjercicioI05\bin\Debug\net5.0\EjercicioI05.runtimeconfig.dev.json
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI05\EjercicioI05\bin\Debug\net5.0\EjercicioI05.dll
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI05\EjercicioI05\bin\Debug\net5.0\ref\EjercicioI05.dll
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI05\EjercicioI05\bin\Debug\net5.0\EjercicioI05.pdb
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI05\EjercicioI05\obj\Debug\net5.0\EjercicioI05.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI05\EjercicioI05\obj\Debug\net5.0\EjercicioI05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI05\EjercicioI05\obj\Debug\net5.0\EjercicioI05.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI05\EjercicioI05\obj\Debug\net5.0\EjercicioI05.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI05\EjercicioI05\obj\Debug\net5.0\EjercicioI05.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI05\EjercicioI05\obj\Debug\net5.0\EjercicioI05.dll
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI05\EjercicioI05\obj\Debug\net5.0\ref\EjercicioI05.dll
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI05\EjercicioI05\obj\Debug\net5.0\EjercicioI05.pdb
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI05\EjercicioI05\obj\Debug\net5.0\EjercicioI05.genruntimeconfig.cache

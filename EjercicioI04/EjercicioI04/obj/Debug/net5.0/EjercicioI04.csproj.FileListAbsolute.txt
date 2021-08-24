@@ -1,0 +1,16 @@
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI04\EjercicioI04\bin\Debug\net5.0\EjercicioI04.exe
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI04\EjercicioI04\bin\Debug\net5.0\EjercicioI04.deps.json
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI04\EjercicioI04\bin\Debug\net5.0\EjercicioI04.runtimeconfig.json
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI04\EjercicioI04\bin\Debug\net5.0\EjercicioI04.runtimeconfig.dev.json
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI04\EjercicioI04\bin\Debug\net5.0\EjercicioI04.dll
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI04\EjercicioI04\bin\Debug\net5.0\ref\EjercicioI04.dll
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI04\EjercicioI04\bin\Debug\net5.0\EjercicioI04.pdb
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI04\EjercicioI04\obj\Debug\net5.0\EjercicioI04.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI04\EjercicioI04\obj\Debug\net5.0\EjercicioI04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI04\EjercicioI04\obj\Debug\net5.0\EjercicioI04.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI04\EjercicioI04\obj\Debug\net5.0\EjercicioI04.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI04\EjercicioI04\obj\Debug\net5.0\EjercicioI04.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI04\EjercicioI04\obj\Debug\net5.0\EjercicioI04.dll
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI04\EjercicioI04\obj\Debug\net5.0\ref\EjercicioI04.dll
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI04\EjercicioI04\obj\Debug\net5.0\EjercicioI04.pdb
+C:\Users\USUARIO\source\repos\Programacion 2\EjercicioI04\EjercicioI04\obj\Debug\net5.0\EjercicioI04.genruntimeconfig.cache
