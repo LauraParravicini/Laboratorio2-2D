@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Calculadora/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Calculadora.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Calculadora.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculadora/1.0.0": {
+      "type": "project",
+      "path": "../Calculadora/Calculadora.csproj",
+      "msbuildProject": "../Calculadora/Calculadora.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Calculadora >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\USUARIO\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\USUARIO\\source\\repos\\Programacion 2\\Clase02_EjercicioI04\\Clase02_EjercicioI04\\Clase02_EjercicioI04.csproj",
+      "projectName": "Clase02_EjercicioI04",
+      "projectPath": "C:\\Users\\USUARIO\\source\\repos\\Programacion 2\\Clase02_EjercicioI04\\Clase02_EjercicioI04\\Clase02_EjercicioI04.csproj",
+      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USUARIO\\source\\repos\\Programacion 2\\Clase02_EjercicioI04\\Clase02_EjercicioI04\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\USUARIO\\source\\repos\\Programacion 2\\Clase02_EjercicioI04\\Calculadora\\Calculadora.csproj": {
+              "projectPath": "C:\\Users\\USUARIO\\source\\repos\\Programacion 2\\Clase02_EjercicioI04\\Calculadora\\Calculadora.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
