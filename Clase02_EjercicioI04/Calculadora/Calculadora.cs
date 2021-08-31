@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace Calculadora
+namespace Calculos
 {
     public class Calculadora
     {
-        public static decimal Calcular(decimal primerOperando, decimal segundoOperando, char operacion)
+        public static double Calcular(double primerOperando, double segundoOperando, char operacion)
         {
-            decimal resultado = 0;
+            double resultado = 0;
             switch (operacion)
             {
                 case '+':
@@ -23,14 +23,18 @@ namespace Calculadora
                     {
                         resultado = primerOperando / segundoOperando;
                     }
+                    else
+                    {
+                        resultado = double.NaN;
+                    }
                     break;
             }
             return resultado;
         }
 
-        private static bool Validar(decimal segundoOperando)
+        private static bool Validar(double segundoOperando)
         {
-            return segundoOperando == 0;
+            return segundoOperando != 0;
         }
     }
 }
