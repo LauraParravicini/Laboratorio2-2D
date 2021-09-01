@@ -11,6 +11,12 @@ namespace Vista
             estudiante.SetNotaSegundoParcial(8);
 
             Console.WriteLine(estudiante.Mostrar());
+
+            Estudiante estudiante2 = new Estudiante("Nacho", "Parravicini", "111066");
+            estudiante2.SetNotaPrimerParcial(3);
+            estudiante2.SetNotaSegundoParcial(3);
+
+            Console.WriteLine(estudiante2.Mostrar());
         }
     }
 }
